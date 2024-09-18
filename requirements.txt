@@ -1,0 +1,6 @@
+pymongo==4.9
+python-dotenv==1.0.1
+pytz==2024.2
+Requests==2.32.3
+schedule==1.2.2
+tzlocal==5.2
